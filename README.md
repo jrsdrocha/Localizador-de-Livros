@@ -103,7 +103,7 @@ O sistema serve como um **protótipo funcional de navegação indoor**, ideal pa
 1️⃣ Baixe ou clone o repositório  
 
 ```bash
-git clone https://github.com/seu-usuario/localizador-biblioteca.git
+git clone https://github.com/jrsdrocha/Localizador-de-Livros.git
 
 
 
